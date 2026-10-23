@@ -1,0 +1,25 @@
+{
+  "description": "Example approved applications. Set enabled=true ONLY after reviewing your audit.",
+  "packages": [
+    {
+      "id": "Google.Chrome",
+      "enabled": true,
+      "notes": "Browser"
+    },
+    {
+      "id": "LastPass.LastPass",
+      "enabled": true,
+      "notes": "Password manager - verify which product is actually used"
+    },
+    {
+      "id": "7zip.7zip",
+      "enabled": true,
+      "notes": "Archive utility"
+    },
+    {
+      "id": "Adobe.Acrobat.Reader.64-bit",
+      "enabled": true,
+      "notes": "PDF viewer"
+    }
+  ]
+}

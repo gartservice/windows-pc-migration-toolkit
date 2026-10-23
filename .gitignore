@@ -1,0 +1,15 @@
+# Generated audit / diagnostic data: PRIVATE - never commit
+OldLaptop-Audit-*/
+OldLaptop-Audit-*.zip
+Laptop-Setup-Reports-*/
+After-Sleep-Test-*/
+*-report.html
+battery-report*.html
+sleepstudy*.html
+*-diagnostics*.html
+setup-transcript.txt
+*.local.json
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
